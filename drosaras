@@ -1,0 +1,16 @@
+[
+  {
+    "action": "record",
+    "eventUrl": ["https://requestb.in/1eqjru31"],
+  },
+  {
+    "action": "connect",
+    "from":"447700900000",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "447786480954"
+      }
+    ]
+  }
+]
